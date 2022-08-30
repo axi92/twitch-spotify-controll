@@ -1,0 +1,15 @@
+{
+  "twitch": {
+    "clientId": "OOOOOOOOOOOOOOOOOOOOO",
+    "clientSecret": "OOOOOOOOOOOOOOOOOOOOO"
+  },
+  "spotify": {
+    "clientId": "OOOOOOOOOOOOOOOOOOOOO",
+    "clientSecret": "OOOOOOOOOOOOOOOOOOOOO",
+    "scopes": [
+      "user-modify-playback-state",
+      "user-read-currently-playing",
+      "user-read-playback-state"
+    ]
+  }
+}
